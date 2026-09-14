@@ -1,0 +1,13 @@
+{
+  "name": "Screen Ruler",
+  "description": "Measure anything on screen in pixels. The window itself is the ruler - transparent with a bright edge and real tick marks - or switch to clicking two points anywhere on screen for distance, components and angle.",
+  "entry": "main.py",
+  "mode": "launch",
+  "keywords": [
+    "open screen ruler",
+    "measure something on screen",
+    "how many pixels is that",
+    "check the size of this"
+  ],
+  "category": "Graphics"
+}
